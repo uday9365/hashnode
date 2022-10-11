@@ -1,1 +1,93 @@
-IyMgQSBTaW1wbGUgR3VpZGUgVG8gSGFja3RvYmVyZmVzdCAyMDIyIPCfpJcKCkhleSB0aGVyZfCfkYssCgpJIGhvcGUgZXZlcnlvbmUgaXMgZG9pbmcgZ3JlYXQsIFtIYWNrdG9iZXJmZXN0XShodHRwczovL2hhY2t0b2JlcmZlc3QuY29tLykgaXMgZ29pbmcgb24sIGFuZCB0aGUgcmVnaXN0cmF0aW9ucyBhcmUgb3BlbiBub3cuIEhhY2t0b2JlcmZlc3QgaXMgYW4gZXZlbnQgaG9zdGVkIGJ5IFtEaWdpdGFsT2Nlbl0oaHR0cHM6Ly93d3cuZGlnaXRhbG9jZWFuLmNvbS9nby9kZXZlbG9wZXItYnJhbmQ/dXRtX2NhbXBhaWduPWFwYWNfYnJhbmRfa3dfZW5fY3BjJnV0bV9hZGdyb3VwPWRpZ2l0YWxvY2Vhbl9leGFjdF9leGFjdCZfa2V5d29yZD1kaWdpdGFsb2NlYW4mX2RldmljZT1jJl9hZHBvc2l0aW9uPSZ1dG1fY29udGVudD1jb252ZXJzaW9uJnV0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9Z29vZ2xlJmdjbGlkPUNqMEtDUWp3blAtWkJoRGlBUklzQUgzRlNSZmNwZEEtWGFySTV1eTcyalJqWVplT2RMdy02Z2NPZWNWNlU5X3NSdl9JMEVyMWRaSEVjV0FhQWpsX0VBTHdfd2NCKSBpbiBwYXJ0bmVyc2hpcCB3aXRoIFtHaXRIdWJdKGh0dHBzOi8vZ2l0aHViLmNvbS8pLCBbQXBwd3JpdGVdKGh0dHBzOi8vYXBwd3JpdGUuaW8vKSwgYW5kIG1hbnkgb3RoZXIgY29tcGFuaWVzLiBUaGUgbWFpbiBhaW0gb2YgSGFja3RvYmVyZmVzdCBpcyB0byBtb3RpdmF0ZSBhbmQgZW5jb3VyYWdlIHBlb3BsZSB0byBjb250cmlidXRlIHRvIFtvcGVuLXNvdXJjZV0oaHR0cHM6Ly9vcGVuc291cmNlLmNvbS9yZXNvdXJjZXMvd2hhdC1vcGVuLXNvdXJjZSkgcHJvamVjdHMuIEluIHRoaXMgYmxvZywgSSBhbSBnb2luZyB0byBzaGFyZSBteSBrbm93bGVkZ2UgYWJvdXQgaG93IHlvdSBjYW4gcGFydGljaXBhdGUgaW4gSGFja3RvYmVyZmVzdCAyMDIyIGFuZCBvdGhlciBlc3NlbnRpYWwgZGV0YWlscyB0aGF0IHlvdSBtdXN0IGtub3cgYmVmb3JlIGNvbnRyaWJ1dGluZyB0byBIYWNrdG9iZXJmZXN0LgoKIyAgV2hhdCB3ZSB3aWxsIGJlIGdvaW5nIHRvIGRpc2N1c3MgaW4gdGhlIEJsb2fwn5eS77iPCgoKICAgICAgMS4gV2hhdCBpcyBIYWNrdG9iZXJmZXN0PwogICAgICAyLiBIb3cgdG8gZ2V0IHN0YXJ0ZWQ/CiAgICAgIDMuIENyZWF0ZSB5b3VyIGZpcnN0IFB1bGwgUmVxdWVzdAogICAgICA0LiBNZWFuaW5nZnVsIFB1bGwgUmVxdWVzdAogICAgICA1LiBSdWxlcyBhbmQgcmVndWxhdGlvbnMKCipMZXQncyBnZXQgc3RhcnRlZCEq4pyoCgojIFdoYXQgaXMgSGFja3RvYmVyZmVzdD8g8J+klAoKSGFja3RvYmVyZmVzdCBpcyBhIG1vbnRoLWxvbmcgY2VsZWJyYXRpb24gb2Ygb3Blbi1zb3VyY2UgcHJvamVjdHMgd2hlcmUgb3Blbi1zb3VyY2UgZGV2ZWxvcGVycyBmcm9tIGFsbCBvdmVyIHRoZSB3b3JsZCBjb250cmlidXRlIHRvIHJlcG9zaXRvcmllcyB0aHJvdWdoIHB1bGwgcmVxdWVzdHMgKFBScykuIEl0IGhhcHBlbnMgZXZlcnkgeWVhciBpbiB0aGUgbW9udGggb2YgT2N0b2Jlci4gT3Blbi1zb3VyY2UgbWFpbnRhaW5lcnMgZ2l2ZSBuZXcgY29udHJpYnV0b3JzIGV4dHJhIGF0dGVudGlvbiBhcyB0aGV5IGd1aWRlIGRldmVsb3BlcnMgdGhyb3VnaCB0aGVpciBmaXJzdCBwdWxsIHJlcXVlc3RzIG9uIEdpdEh1Yi4gSGFja3RvYmVyZmVzdCB3YXMgZmlyc3QgbGF1bmNoZWQgaW4gMjAxMy4KCiMgSG93IHRvIGdldCBzdGFydGVkP/CfmYQKCjEuIENyZWF0ZSBhIEdpdEh1YiBvciBHaXRMYWIgYWNjb3VudCwgaWYgeW91IGRvbid0IGFscmVhZHkgaGF2ZSBvbmUuCjIuIFJlZ2lzdGVyIGZvciBIYWNrdG9iZXJmZXN0OiBbSGFja3RvYmVyZmVzdCByZWdpc3RyYXRpb24gcGFnZV0oaHR0cHM6Ly9oYWNrdG9iZXJmZXN0LmNvbS9hdXRoLykgYW5kIGZvbGxvdyB0aGUgaW5zdHJ1Y3Rpb24gY2FyZWZ1bGx5IGFuZCB0aGVuIHNpZ24gaW4gd2l0aCB5b3VyIEdpdEh1YiBpZCAoYmV0d2VlbiBTZXB0ZW1iZXIgMjYgdG8gT2N0b2JlciAzMSkuCjMuIEZpbmQgcHJvamVjdHMgd2hpY2ggYXJlIHN1aXRhYmxlIGZvciB5b3UgdG8gY29udHJpYnV0ZSBvbiB0aGUgR2l0SHViIHBhZ2UuIFlvdSBjYW4gdXNlIHJlcG8gdGFncyBsaWtlIGBsYWJlbDogaGFja3RvYmVyZmVzdGAgYGlzOiBpc3N1ZWAgYGlzOiBvcGVuYAoKICAgICMjIyBIZXJlIGFyZSBzb21lIHVzZWZ1bCB3ZWJzaXRlcyB0byBmaW5kIHByb2plY3RzOgogICAgCiAgICAtIFtGaXJzdFRpbWVyc09ubHldKGh0dHBzOi8vd3d3LmZpcnN0dGltZXJzb25seS5jb20vKQogICAgLSBbR2l0SHViIEF3ZXNvbWVGb3JCZWdpbm5lcnNdKGh0dHBzOi8vZ2l0aHViLmNvbS9tdW5nZWxsL2F3ZXNvbWUtZm9yLWJlZ2lubmVycykKICAgIC0gW0hhY2t0b2JlcmZlc3QgU2VhcmNoXShodHRwczovL2hhY2t0b3NlYXJjaC52ZXJjZWwuYXBwLyNyZXBvcykKICAgIC0gW0dvb2QgRmlyc3QgSXNzdWVdKGh0dHBzOi8vZ29vZGZpcnN0aXNzdWUuZGV2LykKCjQuIFN1Ym1pdCBQUnM6IFRyeSB0byBjb21wbGV0ZSBhdCBsZWFzdCA0IHB1bGwgcmVxdWVzdHMgYW5kIHdhaXQgZm9yIHRoZW0gdG8gdmVyaWZ5LgoKICAgICMjIyBXaGF0J3MgbmV3IGluIDIwMjI/CiAgICAtIEpvaW4gdGhlIFtIYWNrdG9iZXJmZXN0IGNvbW11bml0eSBvbiBEaXNjb3JkXShodHRwczovL2Rpc2NvcmQuY29tL2ludml0ZS9oYWNrdG9iZXJmZXN0KSBhbmQgcGFydGljaXBhdGUgaW4gZXZlbnRzIQogICAgLSAqKk5vLWNvZGUgYW5kIGxvdy1jb2RlKiogY29udHJpYnV0aW9ucyBhcmUgbm93IHdlbGNvbWUhCiAgICAgICAgICAxLiBXcml0aW5nIHRlY2huaWNhbCBkb2N1bWVudGF0aW9uIG9yIHRyYW5zbGF0aW5nIG9yIGNvcHkgZWRpdGluZwogICAgICAgICAgMi4gT2ZmZXJpbmcgZ3JhcGhpYyBkZXNpZ24gb3IgdmlkZW8gZWRpdGluZyBzZXJ2aWNlcwogICAgICAgICAgMy4gVXNlciBleHBlcmllbmNlIHRlc3RpbmcKICAgICAgICAgIDQuIFdpcmluZyBibG9nIHBvc3RzIG9uIGJlaGFsZiBvZiBhIHByb2plY3RzCiAgICAgICAgICA1LiBTaGFyaW5nIHByb2plY3RzIG9uIHNvY2lhbCBtZWRpYSAKCiMgQ3JlYXRpbmcgeW91ciBmaXJzdCBQdWxsIFJlcXVlc3QgKFBSKQoKSW4gb3JkZXIgdG8gY3JlYXRlIHlvdXIgZmlyc3QgUFIsIHlvdSBtdXN0IGJlIGZhbWlsaWFyIHdpdGggdGhlIHZlcnNpb24gY29udHJvbCBzeXN0ZW0gZWcuIEdpdCBhbmQgR2l0SHViLgoKKipHaXQgaXMgYSB2ZXJzaW9uIGNvbnRyb2wgc3lzdGVtIHRoYXQgbGV0cyB5b3UgbWFuYWdlIGFuZCBrZWVwIHRyYWNrIG9mIHlvdXIgc291cmNlIGNvZGUgaGlzdG9yeSBHaXRIdWIgaXMgYSBjbG91ZC1iYXNlZCBob3N0aW5nIHNlcnZpY2UgdGhhdCBsZXRzIHlvdSBtYW5hZ2UgR2l0IHJlcG9zaXRvcmllcy4qKgoKSWYgeW914oCZcmUgbm90IHZlcnkgZmFtaWxpYXIgd2l0aCBHaXQgJiBHaXRIdWIsIHBsZWFzZSBjaGVjayB0aGlzIFtWaWRlb10oaHR0cHM6Ly95b3V0dS5iZS9hcEdWOUtnN2ljcykKCiAgLSBGb3JrIHRoZSByZXBvc2l0b3J5CiAgLSBDbG9uZSB0aGUgcmVwb3NpdG9yeQogIC0gQ3JlYXRlIGEgYnJhbmNoCiAgLSBDb21taXQgdGhlIGNoYW5nZXMgeW914oCZdmUgbWFkZQogIC0gUHVzaCBjaGFuZ2VzIHRvIHRoZSBHaXRIdWIgYnJhbmNoIHlvdeKAmXZlIGNyZWF0ZWQKICAtIENyZWF0ZSBQdWxsIFJlcXVlc3QKICAtIE5vdyB0aGF0IHlvdeKAmXZlIGNyZWF0ZWQgeW91ciBQdWxsIFJlcXVlc3QsIHdhaXQgdGlsbCBpdCBnZXRzIG1lcmdlZC4g8J+kqQoKUGxlYXNlIG5vdGUgdGhhdCBvbmx5IGEgbWVyZ2VkIFBSIHdpbGwgYmUgY291bnRlZCBhcyBhIGNvbnRyaWJ1dGlvbiB0b3dhcmQgSGFjdG9iZXJmZXN0LgoKIyBNZWFuaW5nZnVsIFB1bGwgUmVxdWVzdHMgKFBScynwn5iECgpBdCBmaXJzdCwgeW91IG1heSBmZWVsIHZlcnkgbGltaXRlZCB3aXRoIHdoYXQgeW91IGNhbiBhY3R1YWxseSBjb250cmlidXRlIHRvIG9wZW4tc291cmNlLiBCdXQgdGhhdCdzIHRvdGFsbHkgZmluZSwgdGhlcmUgYXJlIHBsZW50eSBvZiB3YXlzIGZvciBuZXdiaWVzIHRvIGNvbnRyaWJ1dGUsIGluY2x1ZGluZyBuby1jb2RlIGFuZCBsb3ctY29kZSBvcHRpb25zLiBXaGF0J3MgaW1wb3J0YW50IGlzIHRoYXQgeW91IGRvbid0IGVuZCB1cCAqKnNwYW1taW5nKiogbWFpbnRhaW5lcnMgd2l0aCBqdW5rIHB1bGwgcmVxdWVzdHMuCgojIFJ1bGVzIGFuZCByZWd1bGF0aW9uc/CfmJAKCi0gUFJzIGNhbiBiZSBzdWJtaXR0ZWQgdG8gYW55IG9wdGVkLWluIHJlcG9zaXRvcnkgb24gR2l0SHViIG9yIEdpdExhYi4KLSBUaGUgUFJzIG11c3QgY29udGFpbiBjb21taXRzIHlvdSBtYWRlIHlvdXJzZWxmLgotIElmIGEgbWFpbnRhaW5lciByZXBvcnRzIHlvdXIgcHVsbCByZXF1ZXN0cyBhcyAqKnNwYW0qKiBvciAqKmludmFsaWQqKiwgaXQgd2lsbCBub3QgYmUgY291bnRlZCB0b3dhcmRzIHlvdXIgcGFydGljaXBhdGlvbiBpbiBIYWNrdG9iZXJmZXN0LgotIElmIGEgbWFpbnRhaW5lciByZXBvcnRzIGJlaGF2aW9yIHRoYXTigJlzIG5vdCBpbiBsaW5lIHdpdGggdGhlIHByb2plY3TigJlzIGNvZGUgb2YgY29uZHVjdCwgeW91IHdpbGwgYmUgaW5lbGlnaWJsZSB0byBwYXJ0aWNpcGF0ZS4KLSBUbyBnZXQgYSBzaGlydCwgeW91IG11c3QgbWFrZSBmb3VyIGFwcHJvdmVkIHB1bGwgcmVxdWVzdHMgKFBScykgb24gb3B0ZWQtaW4gcHJvamVjdHMgYmV0d2VlbiBPY3RvYmVyIDEtMzEgaW4gYW55IHRpbWUgem9uZS4KCiMjIEZvciBmdXJ0aGVyIHJlc2VhcmNoIGNoZWNrOgoKLSBbVGFwYXMgQWRoaWthcnldKGh0dHBzOi8vYmxvZy5ncmVlbnJvb3RzLmluZm8vMTUtcmVwb3NpdG9yaWVzLXRvLWNvbnRyaWJ1dGUtaGFjdG9iZXJmZXN0LTIwMjIpCi0gW0t5bGVlIE1vcmdhbl0oaHR0cHM6Ly9jb21tdW5hbHRlY2guaGFzaG5vZGUuZGV2L3RoZS1iZWdpbm5lci1kZXZlbG9wZXJzLWd1aWRlLXRvLWhhY2t0b2JlcmZlc3QtMjAyMikKLSBbQXl1c2hpIFJhd2F0XShodHRwczovL2F5dXNoaXJhd2F0LmNvbS9iZWdpbm5lcnMtZ3VpZGUtdG8taGFja3RvYmVyZmVzdC0yMDIxKQoKVGhhdCdzIGFsbCBmb3IgdGhpcyBhcnRpY2xlLCBJIHdpc2ggdGhhdCB0aGlzIGFydGljbGUgaGVscHMgeW91IGEgYml0IHRvIHVuZGVyc3RhbmQgSGFja3RvYmVyZmVzdC4gVGhhbmsgeW91IGZvciByZWFkaW5nLiBJZiB5b3UgZmluZCBhbnl0aGluZyBoZWxwZnVsIHBsZWFzZSBsaWtlIHRoZSBhcnRpY2xlLCBpdCB3aWxsIGVuY291cmFnZSBtZSB0byB3cml0ZSBtb3JlIHN1Y2ggYXJ0aWNsZXMgYW5kIHBsZWFzZSBzaGFyZSB5b3VyIHZhbHVhYmxlIG9waW5pb25zIGluIHRoZSBjb21tZW50LvCfkpYKCiMgUmVzb3VyY2VzIGFuZCBDcmVkaXRzOgoKLSBodHRwczovL2hhY2t0b2JlcmZlc3Rzd2FnbGlzdC5jb20vCi0gW0t5bGVlIE1vcmdhbl0oaHR0cHM6Ly9jb21tdW5hbHRlY2guaGFzaG5vZGUuZGV2L3RoZS1iZWdpbm5lci1kZXZlbG9wZXJzLWd1aWRlLXRvLWhhY2t0b2JlcmZlc3QtMjAyMikKLSBbQXl1c2hpIFJhd2F0XShodHRwczovL2F5dXNoaXJhd2F0LmNvbS9iZWdpbm5lcnMtZ3VpZGUtdG8taGFja3RvYmVyZmVzdC0yMDIxKQoKVGhhbmsgeW91IGZvciB2aXNpdGluZyBteSBwcm9maWxlLCBzZWUgeW91IGluIG15IG5leHQgQmxvZyBhcnRpY2xlLvCfmIoKCkxldCdzIGNvbm5lY3QgW1R3aXR0ZXJdKGh0dHBzOi8vdHdpdHRlci5jb20vdWRheV9oYW5kaXF1ZTEp8J+knQogCg==
+# A Simple Guide To Hacktoberfest 2022 🤗
+
+Hey there👋,
+
+I hope everyone is doing great, [Hacktoberfest](https://hacktoberfest.com/) is going on, and the registrations are open now. Hacktoberfest is an event hosted by [DigitalOcen](https://www.digitalocean.com/go/developer-brand?utm_campaign=apac_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digitalocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQjwnP-ZBhDiARIsAH3FSRfcpdA-XarI5uy72jRjYZeOdLw-6gcOecV6U9_sRv_I0Er1dZHEcWAaAjl_EALw_wcB) in partnership with [GitHub](https://github.com/), [Appwrite](https://appwrite.io/), and many other companies. The main aim of Hacktoberfest is to motivate and encourage people to contribute to [open-source](https://opensource.com/resources/what-open-source) projects. In this blog, I am going to share my knowledge about how you can participate in Hacktoberfest 2022 and other essential details that you must know before contributing to Hacktoberfest.
+
+#  What we will be going to discuss in the Blog🗒️
+
+
+      1. What is Hacktoberfest?
+      2. How to get started?
+      3. Create your first Pull Request
+      4. Meaningful Pull Request
+      5. Rules and regulations
+
+*Let's get started!*✨
+
+# What is Hacktoberfest? 🤔
+
+Hacktoberfest is a month-long celebration of open-source projects where open-source developers from all over the world contribute to repositories through pull requests (PRs). It happens every year in the month of October. Open-source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub. Hacktoberfest was first launched in 2013.
+
+# How to get started?🙄
+
+1. Create a GitHub or GitLab account, if you don't already have one.
+2. Register for Hacktoberfest: [Hacktoberfest registration page](https://hacktoberfest.com/auth/) and follow the instruction carefully and then sign in with your GitHub id (between September 26 to October 31).
+3. Find projects which are suitable for you to contribute on the GitHub page. You can use repo tags like `label: hacktoberfest` `is: issue` `is: open`
+
+    ### Here are some useful websites to find projects:
+    
+    - [FirstTimersOnly](https://www.firsttimersonly.com/)
+    - [GitHub AwesomeForBeginners](https://github.com/mungell/awesome-for-beginners)
+    - [Hacktoberfest Search](https://hacktosearch.vercel.app/#repos)
+    - [Good First Issue](https://goodfirstissue.dev/)
+
+4. Submit PRs: Try to complete at least 4 pull requests and wait for them to verify.
+
+    ### What's new in 2022?
+    - Join the [Hacktoberfest community on Discord](https://discord.com/invite/hacktoberfest) and participate in events!
+    - **No-code and low-code** contributions are now welcome!
+          1. Writing technical documentation or translating or copy editing
+          2. Offering graphic design or video editing services
+          3. User experience testing
+          4. Wiring blog posts on behalf of a projects
+          5. Sharing projects on social media 
+
+# Creating your first Pull Request (PR)
+
+In order to create your first PR, you must be familiar with the version control system eg. Git and GitHub.
+
+**Git is a version control system that lets you manage and keep track of your source code history GitHub is a cloud-based hosting service that lets you manage Git repositories.**
+
+If you’re not very familiar with Git & GitHub, please check this [Video](https://youtu.be/apGV9Kg7ics)
+
+  - Fork the repository
+  - Clone the repository
+  - Create a branch
+  - Commit the changes you’ve made
+  - Push changes to the GitHub branch you’ve created
+  - Create Pull Request
+  - Now that you’ve created your Pull Request, wait till it gets merged. 🤩
+
+Please note that only a merged PR will be counted as a contribution toward Hactoberfest.
+
+# Meaningful Pull Requests (PRs)😄
+
+At first, you may feel very limited with what you can actually contribute to open-source. But that's totally fine, there are plenty of ways for newbies to contribute, including no-code and low-code options. What's important is that you don't end up **spamming** maintainers with junk pull requests.
+
+# Rules and regulations😐
+
+- PRs can be submitted to any opted-in repository on GitHub or GitLab.
+- The PRs must contain commits you made yourself.
+- If a maintainer reports your pull requests as **spam** or **invalid**, it will not be counted towards your participation in Hacktoberfest.
+- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
+
+## For further research check:
+
+- [Tapas Adhikary](https://blog.greenroots.info/15-repositories-to-contribute-hactoberfest-2022)
+- [Kylee Morgan](https://communaltech.hashnode.dev/the-beginner-developers-guide-to-hacktoberfest-2022)
+- [Ayushi Rawat](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021)
+
+That's all for this article, I wish that this article helps you a bit to understand Hacktoberfest. Thank you for reading. If you find anything helpful please like the article, it will encourage me to write more such articles and please share your valuable opinions in the comment.💖
+
+# Resources and Credits:
+
+- https://hacktoberfestswaglist.com/
+- [Kylee Morgan](https://communaltech.hashnode.dev/the-beginner-developers-guide-to-hacktoberfest-2022)
+- [Ayushi Rawat](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021)
+
+Thank you for visiting my profile, see you in my next Blog article.😊
+
+Let's connect [Twitter](https://twitter.com/uday_handique1)🤝
+ 
